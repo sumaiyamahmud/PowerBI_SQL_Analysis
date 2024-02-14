@@ -27,7 +27,7 @@ Conducted exploratory data analysis (EDA) using Power BI to gain insights into t
 ## Results/Findings
 The analysis revealed valuable findings, including top-selling pizza varieties and peak sales periods. Visualizations in Power BI provide a clear representation of the data, facilitating easy interpretation and communication of results.
 
-### *The graphs below show the busiest days for orders.*
+### *The graphs below show the busiest days for orders*
 
 ![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/01fcaca1-01fe-4fa6-b45b-c937d28c9502)
 
@@ -37,7 +37,7 @@ Orders are highest on weekends, Friday/Saturday.
 
 Maximum orders were placed in January and July.
 
-*The charts below show the sales performance.*
+### *The charts below show the sales performanc.*
 
 ![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/f05177b4-627f-48b0-a263-a371f026ef5c)
 
@@ -47,7 +47,7 @@ Classic category contributes to maximum sales & total orders.
 
 Large size pizza contributes to maximum sales.
 
-*Listed below are the best sellers in terms of revenue, quantity and total orders. *
+### *Listed below are the best sellers in terms of revenue, quantity and total orders*
 
 ![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/d1e23ea8-8cbf-4677-9d0a-da61df9306fa)
 
@@ -61,7 +61,7 @@ The Classic Deluxe Pizza sells the most.
 
 Maximum orders were placed for The Classic Deluxe Pizza.
 
-*Listed below are the worst sellers in terms of revenue, quantity and total orders. *
+### *Listed below are the worst sellers in terms of revenue, quantity and total orders*
 
 ![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/4ce3dbc9-89ac-4b40-a967-4071ab96afe4)
 
