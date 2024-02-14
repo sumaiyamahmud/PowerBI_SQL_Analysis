@@ -27,7 +27,7 @@ Conducted exploratory data analysis (EDA) using Power BI to gain insights into t
 ## Results/Findings
 The analysis revealed valuable findings, including top-selling pizza varieties and peak sales periods. Visualizations in Power BI provide a clear representation of the data, facilitating easy interpretation and communication of results.
 
-*The graphs below show the busiest days for orders.*
+### *The graphs below show the busiest days for orders.*
 
 ![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/01fcaca1-01fe-4fa6-b45b-c937d28c9502)
 
