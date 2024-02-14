@@ -27,6 +27,54 @@ Conducted exploratory data analysis (EDA) using Power BI to gain insights into t
 ## Results/Findings
 The analysis revealed valuable findings, including top-selling pizza varieties and peak sales periods. Visualizations in Power BI provide a clear representation of the data, facilitating easy interpretation and communication of results.
 
+*The graphs below show the busiest days for orders.*
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/01fcaca1-01fe-4fa6-b45b-c937d28c9502)
+
+Orders are highest on weekends, Friday/Saturday.
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/28fd5781-3c91-4391-bfc1-28d9809b05c6)
+
+Maximum orders were placed in January and July.
+
+*The charts below show the sales performance.*
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/f05177b4-627f-48b0-a263-a371f026ef5c)
+
+Classic category contributes to maximum sales & total orders.
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/8f5ac25d-47f1-45ec-a38d-7cbf6b185dfc)
+
+Large size pizza contributes to maximum sales.
+
+*Listed below are the best sellers in terms of revenue, quantity and total orders. *
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/d1e23ea8-8cbf-4677-9d0a-da61df9306fa)
+
+Thai Chicken Pizza contributes to the highest revenue.
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/77787f17-db31-4052-90c1-0aba96f305f1)
+
+The Classic Deluxe Pizza sells the most.
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/671f4e2e-e3e0-4fe6-ba84-b709388b96f5)
+
+Maximum orders were placed for The Classic Deluxe Pizza.
+
+*Listed below are the worst sellers in terms of revenue, quantity and total orders. *
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/4ce3dbc9-89ac-4b40-a967-4071ab96afe4)
+
+Thai South Chicken Pizza contributes to the lowest revenue.
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/2749141a-c189-474f-a844-5689180dd751)
+
+The California Chicken Pizza sells the least.
+
+![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/3fbfc251-cbd5-4712-8f65-a0afc3984b31)
+
+Least orders were placed for The Brie Carre Pizza.
+
 ## Recommendations
 Based on the analysis, the project offers recommendations for strategic decisions to optimize pizza sales. These may include targeted marketing strategies, inventory adjustments, and regional promotional campaigns.
 
