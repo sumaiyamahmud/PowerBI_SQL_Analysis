@@ -37,7 +37,7 @@ Orders are highest on weekends, Friday/Saturday.
 
 Maximum orders were placed in January and July.
 
-### *The charts below show the sales performanc.*
+### *The charts below show the sales performance*
 
 ![image](https://github.com/sumaiyamahmud/PowerBI_SQL_Analysis/assets/113713705/f05177b4-627f-48b0-a263-a371f026ef5c)
 
